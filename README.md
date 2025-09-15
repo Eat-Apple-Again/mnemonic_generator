@@ -21,3 +21,6 @@ uv run main.py --mode gen_self
 ```bash
 uv run main.py --mode gen_auto
 ```
+
+## Example
+![demo_generate](images/demo_generate.png)
